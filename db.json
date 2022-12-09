@@ -10,7 +10,19 @@
       "title": "hello"
     }
   ],
-  
+  "women": [
+    {
+      "_id": "627292e46e4762cc75998e17",
+      "img_url": "https://www.jcrew.com/s7-img-facade/AW770_PK5748?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&crop=0,0,0,0&wid=480&hei=480",
+      "name": "Vintage cotton crewneck T-shirt",
+      "top_rated": "TOP RATED",
+      "new": "NEW",
+      "price": 2679,
+      "createdAt": "2022-05-04T14:51:16.882Z",
+      "updatedAt": "2022-05-09T05:38:12.574Z",
+      "id": 1,
+      "size":["xs","s","m","l","xl"]
+    }],
   "profile": {
     "name": "typicode"
   }
