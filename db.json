@@ -4,6 +4,11 @@
     {"firstName":"Anna", "lastName":"Smith"},
     {"firstName":"Peter", "lastName":"Jones"}
 ],
+"women":[
+    {"firstName":"rani", "lastName":"Doe"},
+    {"firstName":"binni", "lastName":"Smith"},
+    {"firstName":"noton", "lastName":"Jones"}
+],
  
   "posts": [
     {
